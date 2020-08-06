@@ -1,0 +1,13 @@
+assembly-versioning-scheme: MajorMinorPatch
+mode: ContinuousDeployment
+branches:
+  develop:
+    mode: ContinuousDeployment
+    tag: snap
+  release:
+    mode: ContinuousDeployment
+    tag: rc
+  master: {}
+ignore:
+  sha: []
+merge-message-formats: {}
