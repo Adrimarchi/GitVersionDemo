@@ -34,4 +34,4 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("0.1.0.0")]
 [assembly: AssemblyVersion("0.1.0.0")]
 [assembly: AssemblyFileVersion("0.1.0.0")]
-[assembly: AssemblyInformationalVersion("0.1.0-funcionalidade.6+Branch.feature-funcionalidade.Sha.19be0076e8ffbe76080dea35214957ef232fc560")]
+[assembly: AssemblyInformationalVersion("0.1.0-snap.8+Branch.develop.Sha.471f57bf598ca13fafe6cb4cec0b83d845e89a5b")]
