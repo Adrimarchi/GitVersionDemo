@@ -2,4 +2,3 @@ obj/
 bin/
 .vs/
 .git/
-Properties/AssemblyInfo.cs
