@@ -34,5 +34,5 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.5.0.0")]
 [assembly: AssemblyVersion("1.5.0.0")]
 [assembly: AssemblyFileVersion("1.5.0.0")]
-[assembly: AssemblyInformationalVersion("1.5.0-snap.13+Branch.develop.Sha.6c46131adc9f32f44b2567323b480b4ede6b227c")]
+[assembly: AssemblyInformationalVersion("1.5.0-snap.14+Branch.develop.Sha.7e110fec1fe729c0842d5a272a6948c8746a4d84")]
 
