@@ -10,7 +10,7 @@ namespace GitVersionDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test08");
+            Console.WriteLine("qualquer coisa");
             Console.WriteLine("releaseTeste04");
         }
     }
