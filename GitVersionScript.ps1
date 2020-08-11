@@ -3,12 +3,12 @@ Function VersaoGit(){
     Write-Output "Definindo Versão Inicio:"
 
     echo "Alterando AssemblyInfo"
-    GitVersion /updateassemblyinfo ./Build/AssemblyVersionInfo.cs | Out-File -FilePath C:\dev\PortoSeguro\DEVSECOPS\GitVersionDemo\Gitversion.json
+    GitVersion /updateassemblyinfo ./Build/AssemblyVersionInfo.cs 
 
     echo "Commit da Versão"
     git add .
     git commit -m "definir versao"
 
-    Write-Output "Definindo Versão Inicio:"
+    Write-Output "Definindo Versão Fim:"
 
 }

@@ -50,4 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>echo "Alterando AssemblyInfo"
+    
+GitVersion /updateassemblyinfo AssemblyInfo.cs /ensureassemblyinfo
+echo "AssemblyInfo Alterado"</PreBuildEvent>
+  </PropertyGroup>
 </Project>
