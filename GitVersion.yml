@@ -8,6 +8,9 @@ branches:
     mode: ContinuousDeployment
     tag: rc
   master: {}
+  hotfix:
+    mode: ContinuousDeployment
+    tag: fix
 ignore:
   sha: []
 merge-message-formats: {}
