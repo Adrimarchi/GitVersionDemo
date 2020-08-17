@@ -12,7 +12,7 @@ namespace GitVersionDemo
         {
 
             Console.WriteLine("qualquer coisa6");
-            Console.WriteLine("releaseTeste12");
+            Console.WriteLine("releaseTeste13");
         }
     }
 }
